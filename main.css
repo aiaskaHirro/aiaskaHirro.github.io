@@ -18,12 +18,12 @@ h3 {
 
 
 div {
-  background-color: lightblue;
+  background-color: grey;
   width: 200px;
   padding: 25px;
   border: 25px solid navy;
   
   position: fixed;
   bottom: 0;
-  right: 0;
+  
 }
