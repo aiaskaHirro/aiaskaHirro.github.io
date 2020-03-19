@@ -1,8 +1,21 @@
 h1 { 
+   color: red;
+   font-size :3em;
+   font-family:Arial;
+}
+
+h2 { 
    color: blue;
    font-size :3em;
    font-family:Arial;
 }
+
+h3 { 
+   color: green;
+   font-size :3em;
+   font-family:Arial;
+}
+
 
 div {
   background-color: lightblue;
